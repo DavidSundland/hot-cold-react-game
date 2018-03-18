@@ -1,0 +1,9 @@
+.guessHeader {
+    background-color: red;
+    text-align: center;
+    width: 400px;
+    padding: 20px 50px;
+    margin: auto;
+    display: block;
+    font-size: 1.8em;
+}

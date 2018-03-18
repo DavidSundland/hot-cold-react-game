@@ -1,0 +1,15 @@
+navigation div {
+    display: inline;
+}
+
+.instructions {
+    float: left;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.newgame {
+    float: right;
+    font-weight: bold;
+    cursor: pointer;
+}

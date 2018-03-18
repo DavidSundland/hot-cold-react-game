@@ -1,0 +1,30 @@
+.guessEntry {
+    background-color: #1F253D;
+    text-align: center;
+    width: 400px;
+    padding: 20px 50px;
+    margin: auto;
+    display: block;
+    font-size: 1.8em;
+}
+
+.guessEntry input, .guessEntry button {
+    width: 80%;
+    clear: both;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 1.1em;
+    text-align: center;
+    padding: 8px;
+    color: gray;
+}
+
+.guessEntry input {
+    border: 1px black solid;
+    background-color: lightgray;
+}
+
+.guessEntry button {
+    border: 1px #4c4464 solid;
+    background-color: #3c4464;
+}

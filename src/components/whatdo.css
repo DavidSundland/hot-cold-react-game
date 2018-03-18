@@ -1,0 +1,38 @@
+.whatDo {
+    width: 100%;
+    height: 100%;
+    padding: 20px 5%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: red;
+}
+
+.whatDoInner {
+    position: fixed;
+    /* center box in page */
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 60%;
+    height: 60%;
+    background-color: darkred;
+    padding: 30px;
+    font-size: 1.3em;
+}
+
+.whatDoInner h2 {
+    text-align: center;
+}
+
+.whatDoInner button {
+    margin: auto;
+    padding: 4px;
+/*    width: 100px;*/
+    display: block;
+    background-color: black;
+    color: white;
+    font-size: 1.2em;
+}
